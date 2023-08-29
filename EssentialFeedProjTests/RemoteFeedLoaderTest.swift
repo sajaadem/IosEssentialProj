@@ -7,8 +7,6 @@
 
 import XCTest
 
-import XCTest
-
 class RemoteFeedLoader {
     let client: HTTPClient
     let url: URL
